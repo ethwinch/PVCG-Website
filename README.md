@@ -1,4 +1,4 @@
-This is the website for the Pleasant Village Community Garden, hosted at https://pleasant-village-community-garden.github.io/
+<p>This is the website for the Pleasant Village Community Garden, hosted <a href="https://pleasant-village-community-garden.github.io/">here!</a></p>
 <br>
 <b>Features</b>
 <ul>
